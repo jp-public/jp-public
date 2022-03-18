@@ -1,1 +1,1 @@
-Public repo, mostly school projects and examples. 
+Public repo, mostly school projects and tasks. 
